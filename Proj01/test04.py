@@ -1,0 +1,2 @@
+print("TTT")
+print("ZZZ")
